@@ -23,7 +23,7 @@ var x=Math.floor((Math.random()*3)+ 1);
 var xxx=null;
 if(x=="1"){xxx="rawat-dan-perhatikan-kesehatan-jantung.html"}
 if(x=="2"){xxx="tips-mudah-menjaga-kesehatan-ginjal.html"}
-if(x=="3"){xxx="ketahuilah-kandungan-protein-dari-ke-7.html"}a_to_ve[i].href="https://safelink234.blogspot.com/2017/01/"+xxx+"?url="+ encryptedUrl;a_to_ve[i].rel="nofollow";a_to_vb++;a_to_vc+=i+":::"+ a_to_ve[i].href+"\n";}}
+if(x=="3"){xxx="ketahuilah-kandungan-protein-dari-ke-7.html"}a_to_ve[i].href="http://www.safe-link.gq/2017/01/"+xxx+"?url="+ encryptedUrl;a_to_ve[i].rel="nofollow";a_to_vb++;a_to_vc+=i+":::"+ a_to_ve[i].href+"\n";}}
 var a_to_vj=document.getElementById("anonyminized");var a_to_vk=document.getElementById("found_links");if(a_to_vj)
 {a_to_vj.innerHTML+=a_to_vb;}
 if(a_to_vk)
